@@ -2,6 +2,6 @@ id = "the-best-theme"
 name = "The Best Theme"
 version = "0.0.1"
 schema_version = 1
-authors = ["Nidal-Bakir"]
+authors = ["Nidal Bakir <nidal.bakir.edu@gmail.com>"]
 description = "A port of VSCode The Best Theme with some tweaks"
 repository = "https://github.com/Nidal-Bakir/zed-the-best-theme"
